@@ -8,3 +8,10 @@
 
 3. Matrix Mapping & Similarity Calculation
 
+4. Data preprocessing
+
+5. Model Training
+
+6. Ranking & Recommendation
+
+
